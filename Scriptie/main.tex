@@ -1,0 +1,42 @@
+% Masterproef Jonas Van Goethem - IDLab-IMPACT / RBFA
+% Compileren: latexmk (instellingen in .latexmkrc), of opslaan in VS Code (LaTeX Workshop).
+% Controleer of de faculteit een verplicht sjabloon of titelblad oplegt en neem dat dan over.
+\documentclass[11pt,a4paper,oneside]{report}
+
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[dutch,english]{babel} % laatste taal = hoofdtaal -> zet 'dutch' achteraan voor een Nederlandstalige scriptie
+\usepackage{lmodern}
+\usepackage{microtype}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{graphicx}
+\graphicspath{{figuren/}}
+\usepackage{booktabs}
+\usepackage{amsmath,amssymb}
+\usepackage{csquotes}
+\usepackage[round,authoryear]{natbib}   % \citet{key} -> Auteur (jaar), \citep{key} -> (Auteur, jaar)
+\usepackage[hidelinks]{hyperref}
+\usepackage[capitalise,noabbrev]{cleveref}
+
+\title{Talent detection in youth soccer data of RBFA\\[0.5em]
+       \large Fysieke spelersprofielen en het detecteren van fysieke mismatches}
+\author{Jonas Van Goethem}
+\date{Academiejaar 2026--2027}
+
+\begin{document}
+\selectlanguage{dutch}
+
+\maketitle
+\tableofcontents
+
+\input{hoofdstukken/inleiding}
+\input{hoofdstukken/literatuurstudie}
+\input{hoofdstukken/data}
+\input{hoofdstukken/methodologie}
+\input{hoofdstukken/evaluatie}
+\input{hoofdstukken/conclusie}
+
+\bibliographystyle{plainnat}
+\bibliography{referenties}
+
+\end{document}
