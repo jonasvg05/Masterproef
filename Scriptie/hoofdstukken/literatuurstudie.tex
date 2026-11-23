@@ -23,6 +23,14 @@
 % Trackingsystemen (optisch, GPS/LPS, broadcast tracking zoals SkillCorner), validiteit,
 % variabiliteit van wedstrijd tot wedstrijd, normalisatie (per 90 min, per positie,
 % balbezit), drempelwaarden voor snelheidszones.
+%
+% Synchronisatie en preprocessing van event- en trackingdata:
+% - \citet{oonk2026databallpy}: open-source Python-pakket (DataBallPy) dat event- en
+%   trackingdata in één Game-object bundelt en synchroniseert met een Needleman-Wunsch-
+%   algoritme. Naïeve timestamp-alignering wijkt 1.82 (±4.06) s af; correcte synchronisatie
+%   verlaagt de Brier loss van een xG-model van 0.096 naar 0.082. Relevant omdat fysieke
+%   metrieken per balbezit/fase (normalisatie, Taak 3) en de koppeling mismatch <-> kans (OV3)
+%   een correcte synchronisatie vereisen. Berekent ook afstand in snelheids-/acceleratiezones.
 
 \section{Spelersprofielen en rolclustering}
 \label{sec:lit-profielen}
@@ -35,11 +43,18 @@
 % Topic D -> OV2
 % Wie staat tegenover wie (marking assignment), duelanalyse, ruimtecontrole (pitch control),
 % vergelijking op niveau van duel, linie en team.
+%
+% - Implementaties van pitch control (Fernandez & Bornn, 2018) en pressure zijn beschikbaar in
+%   \citet{oonk2026databallpy}; mogelijke bouwstenen voor mismatches op duel- en linieniveau.
 
 \section{Koppeling met wedstrijdgebeurtenissen}
 \label{sec:lit-uitkomst}
 % Topic E -> OV3
 % Expected goals, waardering van acties, verband tussen fysieke output en uitkomst.
+%
+% - Keuze van de uitkomstmaat: \citet{bergkamp2019methodological} pleiten voor individuele,
+%   positiespecifieke prestatiematen (gewogen events, positiedata) i.p.v. prestatieniveau,
+%   en wijzen erop dat individuele prestatie afhangt van ploegmaats en tegenstanders.
 
 \section{Jeugdvoetbal, talentdetectie en ethiek}
 \label{sec:lit-jeugd}
@@ -52,6 +67,37 @@
 %   (ra = .62, rm = .68, Re = .77). Argument voor consistente, gewogen profielscores
 %   i.p.v. een holistisch oordeel. Ook bruikbaar als opzet voor de expertvalidatie
 %   met RBFA-analisten (Taak 7).
+%
+% Relative age effect in de Belgische nationale ploegen:
+% - \citet{billen2022careers} (bachelorproef KU Leuven, niet peer-reviewed; RBFA-data, 29.631
+%   datapunten): significant RAE in U15-U18, niet in U19, U21 en de Rode Duivels; geen verschil
+%   per positie. Selectie bij de U21 (OR = 4.55) en de Olympische ploeg (OR = 6.89) voorspelt
+%   een selectie bij de Rode Duivels. Relevant: bij jeugdspelers kunnen maturiteit en
+%   geboortekwartaal fysieke profielen vertekenen (RBFA-project 'Futures'). Voorzichtig citeren.
+%
+% Methodologie van talentidentificatie:
+% - \citet{bergkamp2019methodological}: vier methodologische problemen vanuit de
+%   selectiepsychologie: (1) het criterium is meestal het prestatieniveau of de selectie zelf
+%   i.p.v. individuele wedstrijdprestatie; (2) geïsoleerde testen zijn low-fidelity 'signs',
+%   wedstrijdgedrag (event-/positiedata) zijn high-fidelity 'samples' en voorspellen beter;
+%   (3) range restriction in voorgeselecteerde groepen onderschat verbanden; (4) base rate
+%   en selectieratio bepalen de utiliteit (voorbeeld: r = .4 -> success ratio 5.3%).
+%   Relevant: fysieke profielen uit trackingdata = samples; bij RBFA-spelers (sterk
+%   voorgeselecteerd) zijn fysieke verschillen klein -> populatie expliciet vermelden;
+%   uitkomstmaat voor OV3 individueel en positiespecifiek kiezen en eerst valideren.
+% - \citet{bareli2024feudal} (enkel abstract): talentselectie combineert het subjectieve
+%   'coach's eye' en objectieve testformules; de auteurs pleiten voor big data / sport
+%   analytics als derde aanpak die beide verbindt. Hoogstens één zin context.
+% - \citet{barraclough2022methodological} (enkel abstract): narrative review over TID in
+%   teamsporten; pleit voor longitudinale, multidisciplinaire en ecologisch valide designs.
+%   Bevestigt \citet{bergkamp2019methodological}: fysieke profielen uit wedstrijden, opgevolgd
+%   over wedstrijden en seizoenen (OV1-stabiliteit).
+% - \citet{bennett2026talent}: real-time Delphi met 20 experts over 15 aanbevelingen voor TID/TD.
+%   90% vindt dat selectors hun intuïtie moeten aanvullen met gevalideerde objectieve data, maar
+%   die data moet betekenisvol en contextueel zijn (prestatiedata bevat 'te veel ruis'). Indicatoren
+%   longitudinaal opvolgen: 75% eens, maar slechts 10% haalbaar. Argument voor interpreteerbare
+%   profielen en een automatische pijplijn; Delphi-opzet (consensus = IQR <= 1.25) als optie
+%   voor de expertvalidatie met RBFA-analisten (Taak 7).
 
 \section{Synthese}
 \label{sec:lit-synthese}
