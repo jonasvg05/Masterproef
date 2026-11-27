@@ -7,7 +7,7 @@
 > - `[via key: Auteur (jaar)]` = **secundaire vermelding**: de bron citeert een ander werk. Niet zo citeren in de scriptie zonder het originele werk zelf te lezen (dan is het een snowballing-kandidaat).
 > - Engelse vakterm cursief, met de Nederlandse vertaling die in de scriptie gebruikt wordt.
 >
-> Laatst bijgewerkt: 23 november 2026. Verwerkte bronnen: 8 (`peringa2025uniform`, `houtmeyers2021managing`, `oonk2026databallpy`, `bergkamp2019methodological`, `bareli2024feudal`, `barraclough2022methodological`, `bennett2026talent`, `billen2022careers`).
+> Laatst bijgewerkt: 27 november 2026. Verwerkte bronnen: 12 (`peringa2025uniform`, `houtmeyers2021managing`, `oonk2026databallpy`, `bergkamp2019methodological`, `bareli2024feudal`, `barraclough2022methodological`, `bennett2026talent`, `billen2022careers`, `denhartigh2016dynamic`, `johnston2025take`, `kite2025player`, `lundberg2026evidence`).
 
 ---
 
@@ -97,6 +97,14 @@ Studie bij **18 scouts** van een Nederlandse profclub (gem. 9.5 jaar ervaring), 
 - De RBFA richtte het project *Futures* op voor laatrijpe jeugdspelers.
 - Kanttekening: one-way ANOVA op aantallen per kwartaal (in plaats van een chi-kwadraattest tegen de geboorteverdeling) en een wisselende definitie van "selectie". Gebruik de peer-reviewed bronnen erachter (o.a. Helsen et al., Herrebrøden & Bjørndal) als je dit wilt onderbouwen.
 
+**Dynamisch netwerkmodel van excellentie** `denhartigh2016dynamic` (enkel abstract; theorie + simulaties): excellentie ontstaat niet uit specifieke componenten (aanleg, motivatie, training, coaching) maar uit hun voortdurende interacties in een idiosyncratisch netwerk; simulaties reproduceren de idiosyncratische ontwikkelingstrajecten naar excellentie en de sterk scheve verdeling van productiviteit.
+
+**Beslissingsgedrag van selectors** `johnston2025take` (enkel abstract; methodologische beschrijving + pilotstudie): de auteurs ontwikkelen een aanpak om het beslissingsgedrag van selectors (coaches, scouts, administrators) bij het beoordelen en selecteren van atleten te onderzoeken, testen die in een gesimuleerde selectieomgeving en bespreken de methodologische uitdagingen om cognitieve "quirks" rigoureus en valide in de juiste context te onderzoeken.
+
+**Spelersselectie in academievoetbal** `kite2025player` (enkel abstract; narrative review): identificatie en selectie zijn cruciaal in de ontwikkeling van talent; spelers moeten in academies op verschillende leeftijden selectierondes overleven, en dat proces kan de ontwikkeling van veel talenten belemmeren. De review bundelt wat bekend is over het verbeteren van talentselectie, benoemt gaps en bespreekt persoonlijke en systemische cognitieve biases die beïnvloeden welke spelers ontwikkelingskansen krijgen.
+
+**Vroege talentpromotie vs. duurzame ontwikkeling** `lundberg2026evidence` (enkel abstract; leading article, Zweedse context): het debat over vroege talentpromotieprogramma's tegenover inclusieve langetermijnmodellen weerspiegelt een wereldwijde spanning tussen topsportambities en levenslange sportdeelname. De auteurs stellen dat evidence-based jeugdsportsystemen beide doelen tegelijk kunnen dienen en geven principes (geen one-size-fits-all) voor federaties en clubs, met nadruk op welzijn, intrinsieke motivatie, contextueel bestuur en continue evaluatie.
+
 ### Topic X: Algemeen / kaders
 - Vier analysestappen, hiërarchisch geordend naar waarde en complexiteit; idealiter worden ze gelijktijdig toegepast zodat inzichten uit de ene stap de andere verbeteren. `houtmeyers2021managing`
 - Predictive en prescriptive analytics zijn nog weinig ingeburgerd in topsport; er is nog geen sterk bewijs voor accurate voorspelling van trainingsprocesdata. `houtmeyers2021managing`
@@ -174,4 +182,7 @@ Studie bij **18 scouts** van een Nederlandse profclub (gem. 9.5 jaar ervaring), 
 - **Topics A, C, D en E** hebben nog geen inhoudelijke bronnen: positie-specifieke fysieke metrieken, clustering van fysieke profielen, definities van matchups/mismatches en de link fysiek ↔ uitkomst ontbreken nog volledig.
 - Geen enkele verwerkte bron behandelt **SkillCorner/broadcast tracking** of de **stabiliteit** van fysieke profielen over wedstrijden en seizoenen (OV1).
 - Gap: er bestaat nog geen gevalideerde **individuele, objectieve maat voor wedstrijdprestatie** die rekening houdt met ploegmaats en tegenstanders `bergkamp2019methodological`. Relevant voor de uitkomstmaat in OV3 en de context-afhankelijkheid in OV2.
+- Gap: modellen van talentontwikkeling zoals `denhartigh2016dynamic` zijn theoretisch en gebruiken grove uitkomsten (doelpunten, caps); hoe **fysieke** wedstrijdprofielen zich individueel ontwikkelen over seizoenen is niet onderzocht. Raakt de stabiliteitsvraag van OV1.
+- Gap: er zijn weinig valide methoden om het beslissingsgedrag van selectors te onderzoeken in een representatieve context `johnston2025take`. Raakt de opzet van de expertvalidatie met RBFA-analisten (Taak 7).
+- Gap: volgens `kite2025player` blijven er belangrijke gaps in onderzoek naar talentselectie in academievoetbal, o.a. over cognitieve biases bij selectie. Na grondiger lezen te concretiseren (bv. voor de link met OV2).
 - Gap die al te formuleren is: het Lens Model is nog weinig toegepast in sport `peringa2025uniform` en nog niet op **fysieke** tracking-metrieken of matchup-oordelen. Mogelijke bijdrage in Taak 7.
