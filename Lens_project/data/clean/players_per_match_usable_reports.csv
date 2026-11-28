@@ -1,0 +1,273 @@
+﻿match_id,match_date,competition,home_team,away_team,player_id,player_team,player_side,position_played,lineup_minutes,report_id,scout_id,mode
+22107,2025-08-22,Belgium Friendlies,Oud-Heverlee Leuven 1B,R.S.C. Anderlecht 1B,3465,R.S.C. Anderlecht 1B,away,CB,90.0,167,14,unknown
+22107,2025-08-22,Belgium Friendlies,Oud-Heverlee Leuven 1B,R.S.C. Anderlecht 1B,4996,R.S.C. Anderlecht 1B,away,LB,90.0,153,10,unknown
+3385,2025-08-24,Jupiler Pro League,R. Antwerp F.C. 1A,Yellow Red K.V. Mechelen 1A,326,R. Antwerp F.C. 1A,home,CDM,38.0,162,13,unknown
+494,2025-09-06,U16 Elite 1,Club Brugge K.V. U16,K.V.C. Westerlo U16A,6279,Club Brugge K.V. U16,home,CM,0.0,165,19,unknown
+258,2025-09-13,U18 Elite 1,Club Brugge K.V. U18,Yellow Red K.V. Mechelen U18A,6319,Yellow Red K.V. Mechelen U18A,away,RB,90.0,154,10,unknown
+1419,2025-09-13,1E Afdeling Voetb Vl,K. Lyra-Lierse 1,Cercle Brugge K.S.V. 1B,504,Cercle Brugge K.S.V. 1B,away,RB,90.0,164,19,unknown
+8972,2025-09-14,Bundesliga,Borussia M'gladbach,Werder Bremen,7300,Werder Bremen,away,LW,75.0,163,13,unknown
+19859,2025-09-16,UEFA Youth League,PSV U19,R. Union St-Gilloise U19,7314,PSV U19,home,CB,32.0,168,14,unknown
+21760,2025-09-20,Campionato Primavera 1,Juventus U20,Bologna U20,3644,Juventus U20,home,CDM,28.0,166,19,unknown
+3417,2025-09-27,Jupiler Pro League,R. Standard De Liege 1A,Club Brugge K.V. 1A,446,R. Standard De Liege 1A,home,GK,90.0,172,36,unknown
+3436,2025-10-19,Jupiler Pro League,K. St.-Truidense V.V. 1A,R.S.C. Anderlecht 1A,5459,R.S.C. Anderlecht 1A,away,CM,82.0,173,36,unknown
+3439,2025-10-24,Jupiler Pro League,Sporting Du Pays De Charleroi 1A,R.S.C. Anderlecht 1A,4015,Sporting Du Pays De Charleroi 1A,home,GK,90.0,175,36,unknown
+3439,2025-10-24,Jupiler Pro League,Sporting Du Pays De Charleroi 1A,R.S.C. Anderlecht 1A,5459,R.S.C. Anderlecht 1A,away,CDM,90.0,176,36,unknown
+22105,2025-10-29,Belgium Friendlies,K.R.C. Genk U18A,Beerschot V.A. U21,7134,Beerschot V.A. U21,away,GK,90.0,174,36,unknown
+3467,2025-11-23,Jupiler Pro League,K.R.C. Genk 1A,Yellow Red K.V. Mechelen 1A,3683,K.R.C. Genk 1A,home,RB,,177,36,unknown
+3467,2025-11-23,Jupiler Pro League,K.R.C. Genk 1A,Yellow Red K.V. Mechelen 1A,4803,Yellow Red K.V. Mechelen 1A,away,CDM,,179,36,unknown
+3467,2025-11-23,Jupiler Pro League,K.R.C. Genk 1A,Yellow Red K.V. Mechelen 1A,4805,K.R.C. Genk 1A,home,CB,,178,36,unknown
+22108,2025-12-03,Croky Cup,R. Antwerp F.C. 1A,K. St.-Truidense V.V. 1A,1730,K. St.-Truidense V.V. 1A,away,GK,90.0,180,36,unknown
+19684,2025-12-10,UEFA Youth League,Club Brugge K.V. U19,Arsenal U19,5169,Club Brugge K.V. U19,home,RB,90.0,151,23,unknown
+3213,2025-12-14,Challenger Pro League,Kas Eupen 1A,Club Brugge K.V. 1B,2411,Club Brugge K.V. 1B,away,GK,90.0,181,36,unknown
+3214,2025-12-14,Challenger Pro League,Ksc Lokeren 1,K.R.C. Genk 1B,993,K.R.C. Genk 1B,away,CB,77.0,152,23,unknown
+3231,2026-01-16,Challenger Pro League,K.R.C. Genk 1B,Lommel Sk 1A,4209,K.R.C. Genk 1B,home,GK,90.0,161,21,unknown
+318,2026-01-17,U18 Elite 1,K.A.A. Gent U18,R.S.C. Anderlecht U18,2970,R.S.C. Anderlecht U18,away,GK,90.0,156,22,unknown
+318,2026-01-17,U18 Elite 1,K.A.A. Gent U18,R.S.C. Anderlecht U18,6913,K.A.A. Gent U18,home,GK,90.0,155,22,unknown
+14960,2026-01-17,U18 Premier League,Leicester City U18,Chelsea U18,7671,Chelsea U18,away,CAM,90.0,203,16,video
+3518,2026-01-18,Jupiler Pro League,Sporting Du Pays De Charleroi 1A,R. Standard De Liege 1A,4015,Sporting Du Pays De Charleroi 1A,home,GK,90.0,10,21,video
+10210,2026-01-18,Ligue 1,Strasbourg,Metz,7377,Strasbourg,home,GK,90.0,159,21,unknown
+319,2026-01-24,U18 Elite 1,K.R.C. Genk U18A,K. St.-Truidense V.V. U18,4812,K.R.C. Genk U18A,home,GK,90.0,157,22,unknown
+322,2026-01-24,U18 Elite 1,R. Antwerp F.C. U18,Sporting Du Pays De Charleroi U18,3085,R. Antwerp F.C. U18,home,CB,89.0,169,14,unknown
+324,2026-01-24,U18 Elite 1,K.A.A. Gent U18,R. Standard De Liege U18,2014,K.A.A. Gent U18,home,RW,90.0,40,16,live
+324,2026-01-24,U18 Elite 1,K.A.A. Gent U18,R. Standard De Liege U18,5987,R. Standard De Liege U18,away,CDM,90.0,42,16,live
+324,2026-01-24,U18 Elite 1,K.A.A. Gent U18,R. Standard De Liege U18,6638,R. Standard De Liege U18,away,CB,90.0,43,16,live
+324,2026-01-24,U18 Elite 1,K.A.A. Gent U18,R. Standard De Liege U18,6751,K.A.A. Gent U18,home,LB,25.0,41,16,live
+555,2026-01-24,U16 Elite 1,R.S.C. Anderlecht U16A,S.V. Zulte-Waregem U16,4725,R.S.C. Anderlecht U16A,home,CM,0.0,3,23,live
+555,2026-01-24,U16 Elite 1,R.S.C. Anderlecht U16A,S.V. Zulte-Waregem U16,5598,R.S.C. Anderlecht U16A,home,LW,0.0,2,23,live
+556,2026-01-24,U16 Elite 1,R. Standard De Liege U16,K.A.A. Gent U16,5921,K.A.A. Gent U16,away,GK,0.0,11,21,video
+2029,2026-01-24,2De Afdeling Voetb Vl B,Ksk Tongeren 1,R. Antwerp F.C. 1B,4933,R. Antwerp F.C. 1B,away,GK,90.0,158,22,unknown
+3256,2026-01-27,Challenger Pro League,K.R.C. Genk 1B,R.W.D.M. Brussels 1A,1145,K.R.C. Genk 1B,home,CB,90.0,18,13,live
+3256,2026-01-27,Challenger Pro League,K.R.C. Genk 1B,R.W.D.M. Brussels 1A,1931,K.R.C. Genk 1B,home,LB,85.0,19,13,live
+3256,2026-01-27,Challenger Pro League,K.R.C. Genk 1B,R.W.D.M. Brussels 1A,3894,R.W.D.M. Brussels 1A,away,CB,90.0,17,13,live
+3262,2026-01-27,Challenger Pro League,Club Brugge K.V. 1B,K.V. Kortrijk 1,2411,Club Brugge K.V. 1B,home,GK,90.0,170,14,unknown
+3262,2026-01-27,Challenger Pro League,Club Brugge K.V. 1B,K.V. Kortrijk 1,4493,Club Brugge K.V. 1B,home,ST,73.0,32,14,live
+3254,2026-01-28,Challenger Pro League,R.S.C. Anderlecht 1B,Koninklijke Lierse Sportkring 1A,723,R.S.C. Anderlecht 1B,home,RW,90.0,6,19,video
+3254,2026-01-28,Challenger Pro League,R.S.C. Anderlecht 1B,Koninklijke Lierse Sportkring 1A,2684,R.S.C. Anderlecht 1B,home,LW,59.0,4,19,video
+326,2026-01-31,U18 Elite 1,Oud-Heverlee Leuven U18,K.A.A. Gent U18,2014,K.A.A. Gent U18,away,CF,90.0,98,30,live
+326,2026-01-31,U18 Elite 1,Oud-Heverlee Leuven U18,K.A.A. Gent U18,2727,Oud-Heverlee Leuven U18,home,CM,90.0,96,30,live
+326,2026-01-31,U18 Elite 1,Oud-Heverlee Leuven U18,K.A.A. Gent U18,3071,Oud-Heverlee Leuven U18,home,CF,90.0,97,30,live
+326,2026-01-31,U18 Elite 1,Oud-Heverlee Leuven U18,K.A.A. Gent U18,6751,K.A.A. Gent U18,away,LB,90.0,102,30,live
+327,2026-01-31,U18 Elite 1,Club Brugge K.V. U18,K.V.C. Westerlo U18A,4387,Club Brugge K.V. U18,home,ST,90.0,39,16,live
+328,2026-01-31,U18 Elite 1,R.S.C. Anderlecht U18,K.R.C. Genk U18A,2970,R.S.C. Anderlecht U18,home,GK,90.0,15,22,live
+328,2026-01-31,U18 Elite 1,R.S.C. Anderlecht U18,K.R.C. Genk U18A,6050,K.R.C. Genk U18A,away,GK,90.0,16,22,live
+560,2026-01-31,U16 Elite 1,Yellow Red K.V. Mechelen U16,R. Standard De Liege U16,4443,Yellow Red K.V. Mechelen U16,home,CAM,0.0,28,14,live
+560,2026-01-31,U16 Elite 1,Yellow Red K.V. Mechelen U16,R. Standard De Liege U16,5203,Yellow Red K.V. Mechelen U16,home,CM,0.0,27,14,live
+561,2026-01-31,U16 Elite 1,R. Antwerp F.C. U16,K. St.-Truidense V.V. U16A,6613,R. Antwerp F.C. U16,home,GK,0.0,7,21,live
+802,2026-01-31,U15 Elite 1,K.A.A. Gent U15,Oud-Heverlee Leuven U15A,586,K.A.A. Gent U15,home,CDM,0.0,12,23,live
+802,2026-01-31,U15 Elite 1,K.A.A. Gent U15,Oud-Heverlee Leuven U15A,5314,K.A.A. Gent U15,home,CAM,0.0,13,23,live
+802,2026-01-31,U15 Elite 1,K.A.A. Gent U15,Oud-Heverlee Leuven U15A,6894,K.A.A. Gent U15,home,CB,0.0,14,23,live
+3255,2026-01-31,Challenger Pro League,R.W.D.M. Brussels 1A,K.A.A. Gent 1B,3340,K.A.A. Gent 1B,away,GK,90.0,8,21,live
+3255,2026-01-31,Challenger Pro League,R.W.D.M. Brussels 1A,K.A.A. Gent 1B,3894,R.W.D.M. Brussels 1A,home,CB,90.0,25,21,live
+3248,2026-02-01,Challenger Pro League,Koninklijke Lierse Sportkring 1A,Beerschot V.A. 1,2376,Koninklijke Lierse Sportkring 1A,home,CAM,90.0,24,19,live
+3527,2026-02-01,Jupiler Pro League,R. Union St-Gilloise 1A,Club Brugge K.V. 1A,558,Club Brugge K.V. 1A,away,RB,88.0,22,13,live
+3527,2026-02-01,Jupiler Pro League,R. Union St-Gilloise 1A,Club Brugge K.V. 1A,5521,Club Brugge K.V. 1A,away,CB,90.0,21,13,live
+20911,2026-02-04,Cup U19,R. Union St-Gilloise U19,R. Standard De Liège U19,5313,R. Standard De Liège U19,away,GK,90.0,66,22,video
+3537,2026-02-06,Jupiler Pro League,K.V.C. Westerlo 1A,K. St.-Truidense V.V. 1A,3272,K.V.C. Westerlo 1A,home,LW,17.0,60,14,video
+331,2026-02-07,U18 Elite 1,S.V. Zulte-Waregem U18,Oud-Heverlee Leuven U18,6297,S.V. Zulte-Waregem U18,home,CM,90.0,56,14,live
+332,2026-02-07,U18 Elite 1,K.R.C. Genk U18A,Yellow Red K.V. Mechelen U18A,1427,Yellow Red K.V. Mechelen U18A,away,CB,90.0,94,30,live
+332,2026-02-07,U18 Elite 1,K.R.C. Genk U18A,Yellow Red K.V. Mechelen U18A,1938,K.R.C. Genk U18A,home,CB,90.0,92,30,live
+332,2026-02-07,U18 Elite 1,K.R.C. Genk U18A,Yellow Red K.V. Mechelen U18A,3417,K.R.C. Genk U18A,home,CB,60.0,90,30,live
+332,2026-02-07,U18 Elite 1,K.R.C. Genk U18A,Yellow Red K.V. Mechelen U18A,6444,K.R.C. Genk U18A,home,RW,65.0,91,30,live
+332,2026-02-07,U18 Elite 1,K.R.C. Genk U18A,Yellow Red K.V. Mechelen U18A,6937,Yellow Red K.V. Mechelen U18A,away,CAM,90.0,93,30,live
+333,2026-02-07,U18 Elite 1,Sporting Du Pays De Charleroi U18,R.S.C. Anderlecht U18,398,R.S.C. Anderlecht U18,away,LW,90.0,81,20,live
+333,2026-02-07,U18 Elite 1,Sporting Du Pays De Charleroi U18,R.S.C. Anderlecht U18,966,R.S.C. Anderlecht U18,away,ST,60.0,83,20,live
+333,2026-02-07,U18 Elite 1,Sporting Du Pays De Charleroi U18,R.S.C. Anderlecht U18,2743,Sporting Du Pays De Charleroi U18,home,RW,23.0,80,20,live
+333,2026-02-07,U18 Elite 1,Sporting Du Pays De Charleroi U18,R.S.C. Anderlecht U18,4277,R.S.C. Anderlecht U18,away,RB,90.0,85,20,live
+333,2026-02-07,U18 Elite 1,Sporting Du Pays De Charleroi U18,R.S.C. Anderlecht U18,6045,R.S.C. Anderlecht U18,away,CF,60.0,82,20,live
+336,2026-02-07,U18 Elite 1,K.A.A. Gent U18,Club Brugge K.V. U18,1786,Club Brugge K.V. U18,away,GK,90.0,63,22,live
+336,2026-02-07,U18 Elite 1,K.A.A. Gent U18,Club Brugge K.V. U18,2014,K.A.A. Gent U18,home,ST,90.0,101,16,live
+336,2026-02-07,U18 Elite 1,K.A.A. Gent U18,Club Brugge K.V. U18,4378,K.A.A. Gent U18,home,CB,67.0,99,16,live
+336,2026-02-07,U18 Elite 1,K.A.A. Gent U18,Club Brugge K.V. U18,5364,K.A.A. Gent U18,home,GK,90.0,62,22,live
+336,2026-02-07,U18 Elite 1,K.A.A. Gent U18,Club Brugge K.V. U18,6751,K.A.A. Gent U18,home,LB,90.0,100,16,live
+564,2026-02-07,U16 Elite 1,Yellow Red K.V. Mechelen U16,K.R.C. Genk U16A,1763,Yellow Red K.V. Mechelen U16,home,GK,0.0,46,21,live
+564,2026-02-07,U16 Elite 1,Yellow Red K.V. Mechelen U16,K.R.C. Genk U16A,5103,K.R.C. Genk U16A,away,GK,0.0,45,21,live
+565,2026-02-07,U16 Elite 1,Club Brugge K.V. U16,K.A.A. Gent U16,5921,K.A.A. Gent U16,away,GK,0.0,67,21,video
+804,2026-02-07,U15 Elite 1,Club Brugge K.V. U15,K.A.A. Gent U15,1612,Club Brugge K.V. U15,home,CB,0.0,57,23,live
+804,2026-02-07,U15 Elite 1,Club Brugge K.V. U15,K.A.A. Gent U15,4682,Club Brugge K.V. U15,home,LW,0.0,59,23,live
+3268,2026-02-07,Challenger Pro League,Beerschot V.A. 1,Club Brugge K.V. 1B,2411,Club Brugge K.V. 1B,away,GK,90.0,197,35,live
+3538,2026-02-07,Jupiler Pro League,Sporting Du Pays De Charleroi 1A,Cercle Brugge K.S.V. 1A,4015,Sporting Du Pays De Charleroi 1A,home,GK,90.0,49,21,video
+21048,2026-02-09,Eerste Divisie,PSV II,TOP Oss,7248,PSV II,home,RW,90.0,65,14,video
+21048,2026-02-09,Eerste Divisie,PSV II,TOP Oss,7428,PSV II,home,CM,90.0,64,14,video
+21050,2026-02-11,Croky Cup,R. Union St-Gilloise 1A,Sporting Du Pays De Charleroi 1A,4015,Sporting Du Pays De Charleroi 1A,away,GK,90.0,68,21,video
+784,2026-02-14,U15 Elite 1,K.V.C. Westerlo U15A,Sporting Du Pays De Charleroi U15,3326,K.V.C. Westerlo U15A,home,ST,0.0,71,23,live
+784,2026-02-14,U15 Elite 1,K.V.C. Westerlo U15A,Sporting Du Pays De Charleroi U15,4593,Sporting Du Pays De Charleroi U15,away,CDM,0.0,72,23,live
+2013,2026-02-14,2De Afdeling Voetb Vl B,R. Antwerp F.C. 1B,K. Berg En Dal V.V. 1,4933,R. Antwerp F.C. 1B,home,GK,90.0,77,22,video
+3274,2026-02-14,Challenger Pro League,Lommel Sk 1A,R.S.C. Anderlecht 1B,2316,R.S.C. Anderlecht 1B,away,CF,90.0,88,15,video
+3274,2026-02-14,Challenger Pro League,Lommel Sk 1A,R.S.C. Anderlecht 1B,6286,R.S.C. Anderlecht 1B,away,CM,90.0,87,15,video
+3276,2026-02-14,Challenger Pro League,R.W.D.M. Brussels 1A,Ksc Lokeren 1,3894,R.W.D.M. Brussels 1A,home,CB,90.0,108,15,video
+3544,2026-02-14,Jupiler Pro League,Sporting Du Pays De Charleroi 1A,K.A.A. Gent 1A,4015,Sporting Du Pays De Charleroi 1A,home,GK,90.0,70,21,video
+10176,2026-02-14,Ligue 1,Olympique Marseille,Strasbourg,7377,Strasbourg,away,GK,90.0,69,21,live
+21071,2026-02-14,Cup U19,Club Brugge K.V. U19,Ksc Lokeren U19,3156,Club Brugge K.V. U19,home,CF,65.0,75,15,live
+21071,2026-02-14,Cup U19,Club Brugge K.V. U19,Ksc Lokeren U19,4760,Club Brugge K.V. U19,home,CB,65.0,74,15,live
+21280,2026-02-14,Cup U19,Koninklijke Lierse Sportkring U19,R. Union St-Gilloise U19,6524,Koninklijke Lierse Sportkring U19,home,GK,90.0,182,22,video
+1538,2026-02-15,1E Afdeling Voetb Vl,Oud-Heverlee Leuven 1B,Hoogstraten V.V. 1A,3071,Oud-Heverlee Leuven 1B,home,ST,75.0,76,16,live
+3548,2026-02-15,Jupiler Pro League,R. Antwerp F.C. 1A,K.V.C. Westerlo 1A,1112,K.V.C. Westerlo 1A,away,CDM,90.0,204,13,live
+338,2026-02-18,U18 Elite 1,S.V. Zulte-Waregem U18,K.R.C. Genk U18A,1709,S.V. Zulte-Waregem U18,home,GK,90.0,183,22,video
+338,2026-02-18,U18 Elite 1,S.V. Zulte-Waregem U18,K.R.C. Genk U18A,2477,K.R.C. Genk U18A,away,CAM,90.0,103,15,live
+338,2026-02-18,U18 Elite 1,S.V. Zulte-Waregem U18,K.R.C. Genk U18A,3742,S.V. Zulte-Waregem U18,home,ST,90.0,109,16,live
+338,2026-02-18,U18 Elite 1,S.V. Zulte-Waregem U18,K.R.C. Genk U18A,4812,K.R.C. Genk U18A,away,GK,90.0,184,22,video
+338,2026-02-18,U18 Elite 1,S.V. Zulte-Waregem U18,K.R.C. Genk U18A,4963,K.R.C. Genk U18A,away,CDM,90.0,104,15,live
+797,2026-02-18,U15 Elite 1,K.R.C. Genk U15,R.S.C. Anderlecht U15A,3771,K.R.C. Genk U15,home,CB,0.0,105,23,live
+797,2026-02-18,U15 Elite 1,K.R.C. Genk U15,R.S.C. Anderlecht U15A,4970,K.R.C. Genk U15,home,CAM,0.0,106,23,live
+797,2026-02-18,U15 Elite 1,K.R.C. Genk U15,R.S.C. Anderlecht U15A,6741,K.R.C. Genk U15,home,CB,0.0,107,23,live
+3286,2026-02-20,Challenger Pro League,R.S.C. Anderlecht 1B,K.R.C. Genk 1B,723,R.S.C. Anderlecht 1B,home,LW,90.0,202,16,live
+3286,2026-02-20,Challenger Pro League,R.S.C. Anderlecht 1B,K.R.C. Genk 1B,2970,R.S.C. Anderlecht 1B,home,GK,90.0,185,22,live
+3286,2026-02-20,Challenger Pro League,R.S.C. Anderlecht 1B,K.R.C. Genk 1B,4209,K.R.C. Genk 1B,away,GK,90.0,186,22,live
+3286,2026-02-20,Challenger Pro League,R.S.C. Anderlecht 1B,K.R.C. Genk 1B,4799,K.R.C. Genk 1B,away,CB,90.0,187,15,video
+3286,2026-02-20,Challenger Pro League,R.S.C. Anderlecht 1B,K.R.C. Genk 1B,4946,R.S.C. Anderlecht 1B,home,CDM,90.0,188,15,video
+342,2026-02-21,U18 Elite 1,R. Standard De Liege U18,K.R.C. Genk U18A,4812,K.R.C. Genk U18A,away,GK,90.0,190,22,live
+342,2026-02-21,U18 Elite 1,R. Standard De Liege U18,K.R.C. Genk U18A,5313,R. Standard De Liege U18,home,GK,90.0,189,22,live
+342,2026-02-21,U18 Elite 1,R. Standard De Liege U18,K.R.C. Genk U18A,5987,R. Standard De Liege U18,home,CDM,90.0,196,30,video
+342,2026-02-21,U18 Elite 1,R. Standard De Liege U18,K.R.C. Genk U18A,6137,R. Standard De Liege U18,home,ST,20.0,200,30,video
+815,2026-02-21,U15 Elite 1,R. Antwerp F.C. U15,Club Brugge K.V. U15,2988,R. Antwerp F.C. U15,home,CDM,0.0,191,23,live
+21550,2026-02-21,Campionato Primavera 1,Torino U20,Juventus U20,3644,Juventus U20,away,CAM,58.0,194,14,live
+21550,2026-02-21,Campionato Primavera 1,Torino U20,Juventus U20,7444,Juventus U20,away,CM,90.0,193,14,live
+21550,2026-02-21,Campionato Primavera 1,Torino U20,Juventus U20,7445,Torino U20,home,CM,90.0,192,14,live
+1577,2026-02-22,1E Afdeling Voetb Vl,K. Diegem Sport 1,Oud-Heverlee Leuven 1B,2024,Oud-Heverlee Leuven 1B,away,CF,80.0,195,15,live
+3556,2026-02-22,Jupiler Pro League,K.V.C. Westerlo 1A,Sporting Du Pays De Charleroi 1A,4015,Sporting Du Pays De Charleroi 1A,away,GK,90.0,199,21,live
+3557,2026-02-22,Jupiler Pro League,S.V. Zulte-Waregem 1A,R.S.C. Anderlecht 1A,789,S.V. Zulte-Waregem 1A,home,CDM,90.0,205,13,live
+3557,2026-02-22,Jupiler Pro League,S.V. Zulte-Waregem 1A,R.S.C. Anderlecht 1A,2008,S.V. Zulte-Waregem 1A,home,CDM,90.0,206,13,live
+3557,2026-02-22,Jupiler Pro League,S.V. Zulte-Waregem 1A,R.S.C. Anderlecht 1A,2926,R.S.C. Anderlecht 1A,away,RW,90.0,208,13,live
+3557,2026-02-22,Jupiler Pro League,S.V. Zulte-Waregem 1A,R.S.C. Anderlecht 1A,5459,R.S.C. Anderlecht 1A,away,CM,90.0,207,13,live
+334,2026-02-25,U18 Elite 1,R. Antwerp F.C. U18,R. Standard De Liege U18,138,R. Antwerp F.C. U18,home,GK,90.0,237,22,live
+334,2026-02-25,U18 Elite 1,R. Antwerp F.C. U18,R. Standard De Liege U18,223,R. Antwerp F.C. U18,home,CB,90.0,215,30,live
+334,2026-02-25,U18 Elite 1,R. Antwerp F.C. U18,R. Standard De Liege U18,5313,R. Standard De Liege U18,away,GK,90.0,236,22,live
+334,2026-02-25,U18 Elite 1,R. Antwerp F.C. U18,R. Standard De Liege U18,5481,R. Antwerp F.C. U18,home,ST,90.0,214,30,live
+334,2026-02-25,U18 Elite 1,R. Antwerp F.C. U18,R. Standard De Liege U18,6137,R. Standard De Liege U18,away,ST,81.0,216,30,live
+334,2026-02-25,U18 Elite 1,R. Antwerp F.C. U18,R. Standard De Liege U18,6942,R. Antwerp F.C. U18,home,LW,90.0,212,30,live
+337,2026-02-25,U18 Elite 1,K.R.C. Genk U18A,K.A.A. Gent U18,3417,K.R.C. Genk U18A,home,CB,86.0,209,20,live
+337,2026-02-25,U18 Elite 1,K.R.C. Genk U18A,K.A.A. Gent U18,4378,K.A.A. Gent U18,away,CB,28.0,210,20,live
+337,2026-02-25,U18 Elite 1,K.R.C. Genk U18A,K.A.A. Gent U18,6751,K.A.A. Gent U18,away,LB,90.0,211,20,live
+21276,2026-02-25,UEFA Youth League,MŠK Žilina Under 19,Club Brugge K.V. U19,863,Club Brugge K.V. U19,away,CAM,61.0,218,15,video
+21276,2026-02-25,UEFA Youth League,MŠK Žilina Under 19,Club Brugge K.V. U19,2411,Club Brugge K.V. U19,away,GK,90.0,220,35,video
+21276,2026-02-25,UEFA Youth League,MŠK Žilina Under 19,Club Brugge K.V. U19,5169,Club Brugge K.V. U19,away,RB,90.0,219,15,video
+3290,2026-02-27,Challenger Pro League,K.A.A. Gent 1B,K. Patro Eisden Maasmechelen 1A,2905,K.A.A. Gent 1B,home,LW,90.0,233,19,video
+344,2026-02-28,U18 Elite 1,K.R.C. Genk U18A,Club Brugge K.V. U18,2477,K.R.C. Genk U18A,home,CAM,61.0,221,15,live
+344,2026-02-28,U18 Elite 1,K.R.C. Genk U18A,Club Brugge K.V. U18,3045,K.R.C. Genk U18A,home,CB,90.0,222,15,live
+344,2026-02-28,U18 Elite 1,K.R.C. Genk U18A,Club Brugge K.V. U18,3447,Club Brugge K.V. U18,away,CB,90.0,230,15,live
+344,2026-02-28,U18 Elite 1,K.R.C. Genk U18A,Club Brugge K.V. U18,4760,Club Brugge K.V. U18,away,CB,90.0,226,15,live
+344,2026-02-28,U18 Elite 1,K.R.C. Genk U18A,Club Brugge K.V. U18,4963,K.R.C. Genk U18A,home,CDM,90.0,223,15,live
+344,2026-02-28,U18 Elite 1,K.R.C. Genk U18A,Club Brugge K.V. U18,5667,Club Brugge K.V. U18,away,CDM,78.0,228,15,live
+345,2026-02-28,U18 Elite 1,S.V. Zulte-Waregem U18,R. Standard De Liege U18,3742,S.V. Zulte-Waregem U18,home,ST,80.0,248,16,live
+348,2026-02-28,U18 Elite 1,K.V.C. Westerlo U18A,K.A.A. Gent U18,2014,K.A.A. Gent U18,away,ST,63.0,225,30,live
+348,2026-02-28,U18 Elite 1,K.V.C. Westerlo U18A,K.A.A. Gent U18,6751,K.A.A. Gent U18,away,LB,90.0,224,30,live
+349,2026-02-28,U18 Elite 1,R.S.C. Anderlecht U18,Oud-Heverlee Leuven U18,398,R.S.C. Anderlecht U18,home,LW,45.0,231,20,live
+349,2026-02-28,U18 Elite 1,R.S.C. Anderlecht U18,Oud-Heverlee Leuven U18,966,R.S.C. Anderlecht U18,home,CF,57.0,232,20,live
+349,2026-02-28,U18 Elite 1,R.S.C. Anderlecht U18,Oud-Heverlee Leuven U18,4277,R.S.C. Anderlecht U18,home,CDM,84.0,234,20,live
+819,2026-02-28,U15 Elite 1,Oud-Heverlee Leuven U15A,R.S.C. Anderlecht U15A,922,Oud-Heverlee Leuven U15A,home,CB,0.0,239,23,live
+819,2026-02-28,U15 Elite 1,Oud-Heverlee Leuven U15A,R.S.C. Anderlecht U15A,4683,Oud-Heverlee Leuven U15A,home,CF,0.0,240,23,live
+2061,2026-02-28,2De Afdeling Voetb Vl B,K.F.C. Nijlen 1,R. Antwerp F.C. 1B,4933,R. Antwerp F.C. 1B,away,GK,90.0,254,22,video
+3292,2026-02-28,Challenger Pro League,K.R.C. Genk 1B,Koninklijke Lierse Sportkring 1A,2611,Koninklijke Lierse Sportkring 1A,away,GK,90.0,247,21,video
+3292,2026-02-28,Challenger Pro League,K.R.C. Genk 1B,Koninklijke Lierse Sportkring 1A,3312,K.R.C. Genk 1B,home,CDM,27.0,243,19,video
+3292,2026-02-28,Challenger Pro League,K.R.C. Genk 1B,Koninklijke Lierse Sportkring 1A,4709,K.R.C. Genk 1B,home,CB,46.0,244,19,video
+10771,2026-02-28,Segunda Liga,Sporting CP II,Leixões,4323,Sporting CP II,home,CM,32.0,242,14,live
+14565,2026-02-28,Primeira Liga,Vitória Guimarães,Alverca,7291,Vitória Guimarães,home,LW,0.0,229,13,live
+1587,2026-03-01,1E Afdeling Voetb Vl,Oud-Heverlee Leuven 1B,K.F.C. Dessel Sport 1A,3698,Oud-Heverlee Leuven 1B,home,CM,82.0,246,19,video
+22209,2026-03-04,Cup U19,K.A.A. Gent U19,S.V. Zulte-Waregem U19,5921,K.A.A. Gent U19,home,GK,90.0,249,22,live
+3295,2026-03-06,Challenger Pro League,Kas Eupen 1A,K.A.A. Gent 1B,3340,K.A.A. Gent 1B,away,GK,90.0,250,21,video
+351,2026-03-07,U18 Elite 1,Oud-Heverlee Leuven U18,R. Antwerp F.C. U18,223,R. Antwerp F.C. U18,away,CB,90.0,263,20,live
+351,2026-03-07,U18 Elite 1,Oud-Heverlee Leuven U18,R. Antwerp F.C. U18,4452,Oud-Heverlee Leuven U18,home,RW,90.0,264,20,live
+351,2026-03-07,U18 Elite 1,Oud-Heverlee Leuven U18,R. Antwerp F.C. U18,4772,R. Antwerp F.C. U18,away,CM,90.0,266,20,live
+351,2026-03-07,U18 Elite 1,Oud-Heverlee Leuven U18,R. Antwerp F.C. U18,5481,R. Antwerp F.C. U18,away,CF,90.0,265,20,live
+353,2026-03-07,U18 Elite 1,Club Brugge K.V. U18,S.V. Zulte-Waregem U18,1709,S.V. Zulte-Waregem U18,away,GK,90.0,253,22,live
+353,2026-03-07,U18 Elite 1,Club Brugge K.V. U18,S.V. Zulte-Waregem U18,3099,Club Brugge K.V. U18,home,GK,90.0,252,22,live
+353,2026-03-07,U18 Elite 1,Club Brugge K.V. U18,S.V. Zulte-Waregem U18,3742,S.V. Zulte-Waregem U18,away,ST,90.0,272,16,live
+354,2026-03-07,U18 Elite 1,K. St.-Truidense V.V. U18,R.S.C. Anderlecht U18,398,R.S.C. Anderlecht U18,away,LW,45.0,258,30,live
+354,2026-03-07,U18 Elite 1,K. St.-Truidense V.V. U18,R.S.C. Anderlecht U18,966,R.S.C. Anderlecht U18,away,ST,45.0,251,30,live
+354,2026-03-07,U18 Elite 1,K. St.-Truidense V.V. U18,R.S.C. Anderlecht U18,3492,R.S.C. Anderlecht U18,away,CDM,16.0,259,30,live
+3302,2026-03-07,Challenger Pro League,Koninklijke Lierse Sportkring 1A,Club Brugge K.V. 1B,257,Club Brugge K.V. 1B,away,CDM,31.0,256,19,live
+3302,2026-03-07,Challenger Pro League,Koninklijke Lierse Sportkring 1A,Club Brugge K.V. 1B,5511,Club Brugge K.V. 1B,away,ST,90.0,257,19,live
+21520,2026-03-07,Campionato Primavera 1,Juventus U20,Genoa U20,7444,Juventus U20,home,CM,0.0,260,19,video
+21520,2026-03-07,Campionato Primavera 1,Juventus U20,Genoa U20,7447,Juventus U20,home,LB,90.0,262,19,video
+3312,2026-03-10,Challenger Pro League,K.R.C. Genk 1B,Club Brugge K.V. 1B,5169,Club Brugge K.V. 1B,away,RB,61.0,284,15,video
+3312,2026-03-10,Challenger Pro League,K.R.C. Genk 1B,Club Brugge K.V. 1B,5260,K.R.C. Genk 1B,home,RW,61.0,286,15,video
+3312,2026-03-10,Challenger Pro League,K.R.C. Genk 1B,Club Brugge K.V. 1B,5667,Club Brugge K.V. 1B,away,CM,66.0,285,15,video
+3318,2026-03-10,Challenger Pro League,Beerschot V.A. 1,R.S.C. Anderlecht 1B,2970,R.S.C. Anderlecht 1B,away,GK,90.0,268,22,live
+22215,2026-03-10,Club Friendlies,K.R.C. Genk U18A,MVV U21,1450,K.R.C. Genk U18A,home,ST,45.0,267,14,live
+3315,2026-03-13,Challenger Pro League,R.S.C. Anderlecht 1B,Kas Eupen 1A,2316,R.S.C. Anderlecht 1B,home,CF,90.0,281,15,video
+3315,2026-03-13,Challenger Pro League,R.S.C. Anderlecht 1B,Kas Eupen 1A,4946,R.S.C. Anderlecht 1B,home,CDM,90.0,283,15,video
+3315,2026-03-13,Challenger Pro League,R.S.C. Anderlecht 1B,Kas Eupen 1A,6286,R.S.C. Anderlecht 1B,home,LW,90.0,282,15,video
+359,2026-03-14,U18 Elite 1,R. Antwerp F.C. U18,K.A.A. Gent U18,2014,K.A.A. Gent U18,away,LW,90.0,271,30,video
+359,2026-03-14,U18 Elite 1,R. Antwerp F.C. U18,K.A.A. Gent U18,4772,R. Antwerp F.C. U18,home,CDM,90.0,278,30,video
+359,2026-03-14,U18 Elite 1,R. Antwerp F.C. U18,K.A.A. Gent U18,5481,R. Antwerp F.C. U18,home,ST,83.0,277,30,video
+361,2026-03-14,U18 Elite 1,R.S.C. Anderlecht U18,R. Standard De Liege U18,966,R.S.C. Anderlecht U18,home,ST,71.0,273,16,live
+361,2026-03-14,U18 Elite 1,R.S.C. Anderlecht U18,R. Standard De Liege U18,5313,R. Standard De Liege U18,away,GK,90.0,275,22,live
+361,2026-03-14,U18 Elite 1,R.S.C. Anderlecht U18,R. Standard De Liege U18,6373,R.S.C. Anderlecht U18,home,GK,90.0,274,22,live
+594,2026-03-14,U16 Elite 1,R. Standard De Liege U16,R.S.C. Anderlecht U16A,719,R.S.C. Anderlecht U16A,away,CB,0.0,291,19,video
+594,2026-03-14,U16 Elite 1,R. Standard De Liege U16,R.S.C. Anderlecht U16A,1439,R.S.C. Anderlecht U16A,away,RW,0.0,292,19,video
+594,2026-03-14,U16 Elite 1,R. Standard De Liege U16,R.S.C. Anderlecht U16A,2556,R.S.C. Anderlecht U16A,away,LB,0.0,293,19,video
+594,2026-03-14,U16 Elite 1,R. Standard De Liege U16,R.S.C. Anderlecht U16A,2938,R. Standard De Liege U16,home,LW,0.0,288,19,video
+594,2026-03-14,U16 Elite 1,R. Standard De Liege U16,R.S.C. Anderlecht U16A,3269,R.S.C. Anderlecht U16A,away,CB,0.0,290,19,video
+594,2026-03-14,U16 Elite 1,R. Standard De Liege U16,R.S.C. Anderlecht U16A,6736,R.S.C. Anderlecht U16A,away,CDM,0.0,289,19,video
+2080,2026-03-14,2De Afdeling Voetb Vl B,K. Berchem Sport 2004 1A,R. Antwerp F.C. 1B,4933,R. Antwerp F.C. 1B,away,GK,90.0,276,22,video
+3310,2026-03-14,Challenger Pro League,Fc Seraing 1,K.R.C. Genk 1B,1931,K.R.C. Genk 1B,away,LB,90.0,294,19,video
+3317,2026-03-15,Challenger Pro League,Ksc Lokeren 1,K.A.A. Gent 1B,3340,K.A.A. Gent 1B,away,GK,46.0,280,21,video
+22250,2026-03-17,UEFA Youth League,Atlético Madrid U19,Club Brugge K.V. U19,5511,Club Brugge K.V. U19,away,ST,90.0,287,23,live
+836,2026-03-21,U15 Elite 1,R. Antwerp F.C. U15,K.R.C. Genk U15,5613,K.R.C. Genk U15,away,LW,0.0,296,23,live
+2085,2026-03-21,2De Afdeling Voetb Vl B,R. Antwerp F.C. 1B,K. Bocholter V.V. 1A,4933,R. Antwerp F.C. 1B,home,GK,90.0,295,22,live
+360,2026-04-08,U18 Elite 1,K.V.C. Westerlo U18A,K.R.C. Genk U18A,1938,K.R.C. Genk U18A,away,CB,90.0,301,30,video
+360,2026-04-08,U18 Elite 1,K.V.C. Westerlo U18A,K.R.C. Genk U18A,6655,K.R.C. Genk U18A,away,LB,20.0,302,30,video
+366,2026-04-11,U18 Elite 1,K.V.C. Westerlo U18A,S.V. Zulte-Waregem U18,3399,S.V. Zulte-Waregem U18,away,LW,90.0,304,20,live
+366,2026-04-11,U18 Elite 1,K.V.C. Westerlo U18A,S.V. Zulte-Waregem U18,3742,S.V. Zulte-Waregem U18,away,ST,75.0,303,20,live
+369,2026-04-11,U18 Elite 1,R. Standard De Liege U18,Oud-Heverlee Leuven U18,2727,Oud-Heverlee Leuven U18,away,RW,63.0,300,30,live
+369,2026-04-11,U18 Elite 1,R. Standard De Liege U18,Oud-Heverlee Leuven U18,3330,R. Standard De Liege U18,home,CAM,32.0,299,30,live
+369,2026-04-11,U18 Elite 1,R. Standard De Liege U18,Oud-Heverlee Leuven U18,5313,R. Standard De Liege U18,home,GK,90.0,297,22,video
+369,2026-04-11,U18 Elite 1,R. Standard De Liege U18,Oud-Heverlee Leuven U18,6137,R. Standard De Liege U18,home,ST,82.0,298,30,live
+3348,2026-04-17,Challenger Pro League,R.S.C. Anderlecht 1B,R. Olympic Club Charleroi 1A,1733,R.S.C. Anderlecht 1B,home,CM,55.0,306,16,live
+3348,2026-04-17,Challenger Pro League,R.S.C. Anderlecht 1B,R. Olympic Club Charleroi 1A,2970,R.S.C. Anderlecht 1B,home,GK,90.0,307,22,live
+3348,2026-04-17,Challenger Pro League,R.S.C. Anderlecht 1B,R. Olympic Club Charleroi 1A,5760,R.S.C. Anderlecht 1B,home,CAM,35.0,305,16,live
+9699,2026-04-17,Eerste Divisie,PSV II,Ajax II,7247,PSV II,home,CB,90.0,309,13,live
+9699,2026-04-17,Eerste Divisie,PSV II,Ajax II,7248,PSV II,home,CAM,0.0,310,13,live
+9699,2026-04-17,Eerste Divisie,PSV II,Ajax II,7249,PSV II,home,CDM,90.0,308,13,live
+9699,2026-04-17,Eerste Divisie,PSV II,Ajax II,7428,PSV II,home,CM,90.0,311,13,live
+372,2026-04-18,U18 Elite 1,Oud-Heverlee Leuven U18,Club Brugge K.V. U18,4445,Club Brugge K.V. U18,away,GK,90.0,315,22,video
+374,2026-04-18,U18 Elite 1,K. St.-Truidense V.V. U18,R. Standard De Liege U18,5313,R. Standard De Liege U18,away,GK,90.0,317,22,video
+848,2026-04-18,U15 Elite 1,R. Standard De Liege U15,K. St.-Truidense V.V. U15A,3777,R. Standard De Liege U15,home,CAM,0.0,314,23,live
+848,2026-04-18,U15 Elite 1,R. Standard De Liege U15,K. St.-Truidense V.V. U15A,5540,R. Standard De Liege U15,home,CM,0.0,313,23,live
+387,2026-04-22,U18 Elite 1,R.S.C. Anderlecht U18,R. Antwerp F.C. U18,4933,R. Antwerp F.C. U18,away,GK,90.0,316,22,video
+387,2026-04-22,U18 Elite 1,R.S.C. Anderlecht U18,R. Antwerp F.C. U18,7098,R. Antwerp F.C. U18,away,RB,90.0,324,16,live
+376,2026-04-25,U18 Elite 1,K.R.C. Genk U18A,S.V. Zulte-Waregem U18,1938,K.R.C. Genk U18A,home,CB,90.0,325,30,live
+376,2026-04-25,U18 Elite 1,K.R.C. Genk U18A,S.V. Zulte-Waregem U18,3742,S.V. Zulte-Waregem U18,away,RW,65.0,327,30,live
+376,2026-04-25,U18 Elite 1,K.R.C. Genk U18A,S.V. Zulte-Waregem U18,6050,K.R.C. Genk U18A,home,GK,90.0,331,37,live
+376,2026-04-25,U18 Elite 1,K.R.C. Genk U18A,S.V. Zulte-Waregem U18,6655,K.R.C. Genk U18A,home,LB,90.0,326,30,live
+377,2026-04-25,U18 Elite 1,R. Antwerp F.C. U18,R.S.C. Anderlecht U18,2316,R.S.C. Anderlecht U18,away,ST,87.0,321,14,live
+377,2026-04-25,U18 Elite 1,R. Antwerp F.C. U18,R.S.C. Anderlecht U18,4933,R. Antwerp F.C. U18,home,GK,90.0,322,22,live
+377,2026-04-25,U18 Elite 1,R. Antwerp F.C. U18,R.S.C. Anderlecht U18,7098,R. Antwerp F.C. U18,home,CM,90.0,328,16,live
+612,2026-04-25,U16 Elite 1,S.V. Zulte-Waregem U16,K.R.C. Genk U16A,3769,K.R.C. Genk U16A,away,CF,0.0,320,15,live
+612,2026-04-25,U16 Elite 1,S.V. Zulte-Waregem U16,K.R.C. Genk U16A,3773,K.R.C. Genk U16A,away,CDM,0.0,319,15,live
+22789,2026-04-25,U18 Elite PO2 Group A,K. Patro Eisden Maasmechelen U18,Koninklijke Lierse Sportkring U18A,6524,Koninklijke Lierse Sportkring U18A,away,GK,90.0,323,22,video
+22911,2026-05-01,Belgium Friendlies,Oud-Heverlee Leuven 1B,K.R.C. Genk 1B,195,Oud-Heverlee Leuven 1B,home,CAM,90.0,345,19,video
+22911,2026-05-01,Belgium Friendlies,Oud-Heverlee Leuven 1B,K.R.C. Genk 1B,1106,Oud-Heverlee Leuven 1B,home,LB,90.0,344,19,video
+22911,2026-05-01,Belgium Friendlies,Oud-Heverlee Leuven 1B,K.R.C. Genk 1B,1408,Oud-Heverlee Leuven 1B,home,RB,90.0,343,19,video
+22911,2026-05-01,Belgium Friendlies,Oud-Heverlee Leuven 1B,K.R.C. Genk 1B,4799,K.R.C. Genk 1B,away,CB,0.0,346,19,video
+22911,2026-05-01,Belgium Friendlies,Oud-Heverlee Leuven 1B,K.R.C. Genk 1B,5260,K.R.C. Genk 1B,away,LW,90.0,347,19,video
+22970,2026-05-01,Belgium Friendlies,Sparta Rotterdam II,R.S.C. Anderlecht 1B,2970,R.S.C. Anderlecht 1B,away,GK,,354,22,video
+384,2026-05-02,U18 Elite 1,R.S.C. Anderlecht U18,K.A.A. Gent U18,1297,R.S.C. Anderlecht U18,home,RW,82.0,340,19,video
+384,2026-05-02,U18 Elite 1,R.S.C. Anderlecht U18,K.A.A. Gent U18,2288,K.A.A. Gent U18,away,CB,90.0,342,19,video
+384,2026-05-02,U18 Elite 1,R.S.C. Anderlecht U18,K.A.A. Gent U18,2316,R.S.C. Anderlecht U18,home,ST,46.0,341,19,video
+384,2026-05-02,U18 Elite 1,R.S.C. Anderlecht U18,K.A.A. Gent U18,6678,K.A.A. Gent U18,away,LW,90.0,330,16,live
+385,2026-05-02,U18 Elite 1,R. Standard De Liege U18,K.V.C. Westerlo U18A,5313,R. Standard De Liege U18,home,GK,90.0,332,22,live
+386,2026-05-02,U18 Elite 1,K. St.-Truidense V.V. U18,Club Brugge K.V. U18,1617,Club Brugge K.V. U18,away,CM,90.0,368,30,live
+386,2026-05-02,U18 Elite 1,K. St.-Truidense V.V. U18,Club Brugge K.V. U18,6161,Club Brugge K.V. U18,away,CB,90.0,367,30,live
+386,2026-05-02,U18 Elite 1,K. St.-Truidense V.V. U18,Club Brugge K.V. U18,7474,Club Brugge K.V. U18,away,CDM,80.0,334,30,live
+623,2026-05-02,U16 Elite 1,K.A.A. Gent U16,R.S.C. Anderlecht U16A,2162,K.A.A. Gent U16,home,CM,0.0,335,15,live
+623,2026-05-02,U16 Elite 1,K.A.A. Gent U16,R.S.C. Anderlecht U16A,2556,R.S.C. Anderlecht U16A,away,CB,0.0,336,15,live
+623,2026-05-02,U16 Elite 1,K.A.A. Gent U16,R.S.C. Anderlecht U16A,6736,R.S.C. Anderlecht U16A,away,CDM,0.0,337,15,live
+22780,2026-05-02,U18 Elite PO2 Group A,Koninklijke Lierse Sportkring U18A,R. Olympic Club Charleroi U18,6524,Koninklijke Lierse Sportkring U18A,home,GK,90.0,333,22,video
+22900,2026-05-02,,PSV U15,Spartaan'20 U15,8037,PSV U15,home,CM,,339,23,live
+380,2026-05-08,U18 Elite 1,Club Brugge K.V. U18,R. Standard De Liege U18,3099,Club Brugge K.V. U18,home,GK,90.0,350,22,live
+380,2026-05-08,U18 Elite 1,Club Brugge K.V. U18,R. Standard De Liege U18,5313,R. Standard De Liege U18,away,GK,90.0,349,22,live
+22909,2026-05-08,Belgium Friendlies,K.A.A. Gent 1B,Oud-Heverlee Leuven 1B,195,Oud-Heverlee Leuven 1B,away,CAM,,356,19,video
+22909,2026-05-08,Belgium Friendlies,K.A.A. Gent 1B,Oud-Heverlee Leuven 1B,4622,Oud-Heverlee Leuven 1B,away,LB,,355,19,video
+22909,2026-05-08,Belgium Friendlies,K.A.A. Gent 1B,Oud-Heverlee Leuven 1B,6278,Oud-Heverlee Leuven 1B,away,ST,,357,19,video
+831,2026-05-09,U15 Elite 1,Club Brugge K.V. U15,Sporting Du Pays De Charleroi U15,668,Club Brugge K.V. U15,home,CDM,0.0,351,23,live
+831,2026-05-09,U15 Elite 1,Club Brugge K.V. U15,Sporting Du Pays De Charleroi U15,4957,Sporting Du Pays De Charleroi U15,away,CDM,0.0,352,23,live
+22946,2026-05-09,Cup U19,K. St.-Truidense V.V. U19,R. Antwerp F.C. U19,4933,R. Antwerp F.C. U19,away,GK,90.0,353,22,live
+22910,2026-05-13,Belgium Friendlies,R.S.C. Anderlecht 1B,Le Havre II,2316,R.S.C. Anderlecht 1B,home,ST,,361,19,video
+22910,2026-05-13,Belgium Friendlies,R.S.C. Anderlecht 1B,Le Havre II,4946,R.S.C. Anderlecht 1B,home,CDM,,358,19,video
+22910,2026-05-13,Belgium Friendlies,R.S.C. Anderlecht 1B,Le Havre II,6286,R.S.C. Anderlecht 1B,home,LB,,360,19,video
+251,2026-05-15,U21 Pro League,Koninklijke Lierse Sportkring U21,Lommel Sk U21,6524,Koninklijke Lierse Sportkring U21,home,GK,90.0,362,22,live
+9384,2026-05-17,Eredivisie,PSV,Twente,7428,PSV,home,CM,71.0,363,14,video
+22667,2026-05-19,Jupiler Pro League Play-Off 2,K.R.C. Genk 1A,R. Antwerp F.C. 1A,3312,K.R.C. Genk 1A,home,CM,20.0,364,14,video
+23030,2026-05-19,Belgium Friendlies,K.R.C. Genk 1B,Roda JC U23,2477,K.R.C. Genk 1B,home,CAM,,365,14,live
+23030,2026-05-19,Belgium Friendlies,K.R.C. Genk 1B,Roda JC U23,4799,K.R.C. Genk 1B,home,CB,,366,14,live

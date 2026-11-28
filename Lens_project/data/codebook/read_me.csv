@@ -1,0 +1,21 @@
+﻿Export of individual scouting reports for research,
+Generated (UTC),2026-11-02 13:40:30
+Season,2025-2026: match date 2025-07-01 up to and including 30 June 2026
+Report types,Individual player reports only (old match-report format left out)
+Statuses,"submitted, approved (drafts left out)"
+First team left out,Authors in staff team(s): Red Devils (today's membership) and reports stamped confidential for it
+Comments,No free-text fields are exported
+Pseudonymized,no: names included - handle as personal data
+,
+Files,
+reports.csv,One row per report (context + overall ratings)
+ratings.csv,"One row per report x star question; join on report_id, look up question_id in tab Questions"
+codebook.xlsx,This file
+,
+Star scale,"1 = poor, 2 = average, 3 = good, 4 = excellent (form: '4 stars, 1 = Poor, 4 = Excellent')"
+N/A,Stored as 0 in the platform; exported as is_na = 1 with an empty rating. Never a score.
+Not filled in,is_missing = 1 with an empty rating.
+Questionnaires,"One per position (GK, CB, LB, RB, CDM, CM, CAM, LW, RW, ST, CF) with different questions; the scout picks it by the position assessed."
+Question codes,"Not unique (LB/RB share AFB*, ST/CF share AST*): always use question_id."
+Question history,The platform keeps no history of question wording; created_at/updated_at in tab Questions show whether a question was edited.
+CSV format,"UTF-8 (with BOM), comma-separated, '.' as decimal sign, dates YYYY-MM-DD"

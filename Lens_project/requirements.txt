@@ -1,0 +1,16 @@
+# Data
+pandas
+numpy
+openpyxl  # nodig om .xlsx te lezen met pandas
+
+# Statistiek en modellen
+scipy
+statsmodels
+scikit-learn
+
+# Visualisatie
+matplotlib
+seaborn
+
+# Notebooks in VS Code
+ipykernel

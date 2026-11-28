@@ -31,12 +31,26 @@
 %   verlaagt de Brier loss van een xG-model van 0.096 naar 0.082. Relevant omdat fysieke
 %   metrieken per balbezit/fase (normalisatie, Taak 3) en de koppeling mismatch <-> kans (OV3)
 %   een correcte synchronisatie vereisen. Berekent ook afstand in snelheids-/acceleratiezones.
+%
+% Normalisatie, context en betrouwbaarheid:
+% - \citet{davis2024methodology}: indicatoren normaliseren per actie, per 90 min, per balbezit
+%   of per balspeeltijd (SkillCorner normaliseert sommige fysieke metrieken per 60 min
+%   balspeeltijd). Fysieke indicatoren hangen af van context: formatie (back three vs. back
+%   four), thuis/uit, veldconditie, stand en tegenstander. Betrouwbaarheid meten door een
+%   indicator over twee helften van de data of opeenvolgende seizoenen te correleren.
+%   Onderbouwt de normalisatiekeuzes van Taak 3 en de stabiliteitstest van OV1.
 
 \section{Spelersprofielen en rolclustering}
 \label{sec:lit-profielen}
 % Topic C -> OV1
 % Regel- en percentielgebaseerde profielen versus clustering (k-means, GMM, ...),
 % keuze van het aantal profielen, interpreteerbaarheid, stabiliteit.
+%
+% - \citet{davis2024methodology}: onderscheid tussen afgeleide indicatoren (tellingen,
+%   gemiddelden, geen context) en modelgebaseerde indicatoren. Stabiliteit van een
+%   spelersprofiel als nearest-neighbourprobleem over opeenvolgende seizoenen (via Decroos &
+%   Davis, 2019): wordt een speler in seizoen t+1 teruggevonden bij zijn eigen profiel van
+%   seizoen t? Rechtstreeks bruikbaar als stabiliteitstest voor clusters/profielen (OV1).
 
 \section{Matchups en mismatches}
 \label{sec:lit-mismatches}
@@ -46,6 +60,12 @@
 %
 % - Implementaties van pitch control (Fernandez & Bornn, 2018) en pressure zijn beschikbaar in
 %   \citet{oonk2026databallpy}; mogelijke bouwstenen voor mismatches op duel- en linieniveau.
+% - \citet{pintelon2026aigestuurde} (masterproef UGent/RBFA, vertrouwelijk: citeren navragen)
+%   gebruikt Spearman-pitch control met time-to-intercept, maar met dezelfde vmax (5,0 m/s) en
+%   reactietijd (0,7 s) voor elke speler: een snelle aanvaller en een trage verdediger worden
+%   identiek gemodelleerd. Als verder onderzoek stelt ze gepersonaliseerde pitch control voor
+%   (topsnelheid, versnelling, vermoeidheid per speler uit tracking). Brug OV1 -> OV2: fysieke
+%   profielen als parameters van een duelmodel.
 
 \section{Koppeling met wedstrijdgebeurtenissen}
 \label{sec:lit-uitkomst}
@@ -55,6 +75,16 @@
 % - Keuze van de uitkomstmaat: \citet{bergkamp2019methodological} pleiten voor individuele,
 %   positiespecifieke prestatiematen (gewogen events, positiedata) i.p.v. prestatieniveau,
 %   en wijzen erop dat individuele prestatie afhangt van ploegmaats en tegenstanders.
+% - \citet{pintelon2026aigestuurde}: op 215.859 open-spelpasses uit 367 RBFA-interlands een
+%   gekalibreerd xG-model (AUC 0,817) en xPass-model (AUC 0,930) gecombineerd in een Expected
+%   Value per passoptie; Delta-EV en Decision Quality Score vergelijken de gespeelde met de beste
+%   pass. Toont dat een xG/EV-pijplijn op RBFA-tracking haalbaar is (mogelijke uitkomstmaat OV3),
+%   maar ook de grenzen: heuristische gewichten, geen matchcontext, geen formele expertvalidatie.
+% - \citet{davis2024methodology}: evalueer de indicator en het onderliggende model apart.
+%   Hoge correlatie met bestaande succesindicatoren (marktwaarde, speeltijd, goals) is geen
+%   goed doel; gebruik face validity, expertoordeel, betrouwbaarheid en een vooraf
+%   gepubliceerde voorspelling. Uitdagingen voor OV3: credit assignment, counterfactuals en
+%   interventies (coaches passen tactiek aan aan de stand). Splits data op wedstrijd/seizoen.
 
 \section{Jeugdvoetbal, talentdetectie en ethiek}
 \label{sec:lit-jeugd}
@@ -136,6 +166,10 @@
 % Methodologische aandachtspunten uit \citet{houtmeyers2021managing}: datareductie bij veel
 % gecorreleerde metrieken (bv. PCA), onzekerheid rapporteren, correlatie is geen causaliteit
 % (OV3), in-sample vs. out-of-sample evaluatie tegen overfitting.
+% Aanvullend uit \citet{davis2024methodology}: data in sport zijn niet i.i.d. (temporele
+% afhankelijkheid, subject consistency), dus groepsgewijs splitsen (walk-forward, per speler,
+% per competitie); Brier-score + reliability diagram wanneer kansen opgeteld of afgetrokken
+% worden; verificatie van het model naast geaggregeerde testmetrieken.
 
 % Voorbeeld van een overzichtstabel:
 % \begin{table}[htbp]

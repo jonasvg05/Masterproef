@@ -1,0 +1,62 @@
+﻿file,column,meaning
+reports.csv,report_id,Platform id of the report (evaluations.id); key to ratings.csv.
+reports.csv,season,Season of the match (1 July - 30 June).
+reports.csv,mode,"How the scout watched: live, video, unknown (older reports)."
+reports.csv,status,submitted or approved (drafts are not exported).
+reports.csv,created_at,When the report was started (UTC).
+reports.csv,submitted_at,When the report was submitted (UTC); empty on old reports.
+reports.csv,days_match_to_submit,Days between the match and submission.
+reports.csv,assignment_id,Scouting assignment the report belongs to (if any).
+reports.csv,scout_id,Platform id of the author (users.id).
+reports.csv,scout_name,Author's name (empty with --pseudonymize).
+reports.csv,scout_roles,"Author's platform role(s) today (coach, admin, ...)."
+reports.csv,scout_staff_teams,Author's staff teams TODAY (no history is kept).
+reports.csv,match_id,Platform id of the match.
+reports.csv,match_date,Match date.
+reports.csv,competition,"Competition name (catalogue, else the match's own label)."
+reports.csv,competition_type,league / cup / friendly / ... (catalogue).
+reports.csv,competition_country,Country of the competition (catalogue).
+reports.csv,competition_age_category,Age category of the competition; empty = senior.
+reports.csv,competition_level,Level of the competition (catalogue).
+reports.csv,home_team,Home team.
+reports.csv,away_team,Away team.
+reports.csv,home_score,"Final score, home."
+reports.csv,away_score,"Final score, away."
+reports.csv,player_id,Platform id of the player (players.id).
+reports.csv,player_name,Player's name (empty with --pseudonymize).
+reports.csv,player_birthdate,Birth date (empty with --pseudonymize).
+reports.csv,player_birth_year,Birth year.
+reports.csv,player_age_at_match,Age in years on the match date (2 decimals).
+reports.csv,player_gender,M / F.
+reports.csv,player_nationality,"Nationalities, separated by '|'."
+reports.csv,player_preferred_foot,Preferred foot (player profile).
+reports.csv,player_team,Team the player played for in this match.
+reports.csv,player_club,Club of that team.
+reports.csv,player_side,home / away.
+reports.csv,opponent_team,Opponent team.
+reports.csv,opponent_club,Opponent club.
+reports.csv,team_formation,Formation of the player's team (as entered by the scout).
+reports.csv,opponent_formation,Formation of the opponent (as entered by the scout).
+reports.csv,lineup_position,Position in the line-up data (match_players).
+reports.csv,lineup_starter,"1 = started, 0 = substitute (line-up data)."
+reports.csv,lineup_minutes,Minutes played (line-up data).
+reports.csv,questionnaire_code,Questionnaire used (one per position) - see codebook.
+reports.csv,questionnaire_position,Position of that questionnaire.
+reports.csv,position_played,Position the scout says the player played.
+reports.csv,rbfa_position,Position the scout sees the player in for RBFA.
+reports.csv,performance,"Overall performance in this match, 1-4 stars (empty = not given)."
+reports.csv,potential,"Potential, 1-4 stars (empty = not given)."
+reports.csv,maturity,Early Mature / Normal / Late Mature.
+reports.csv,is_highlight,1 = the scout flagged the player as a highlight.
+reports.csv,n_questions,Star questions in this questionnaire (rows in ratings.csv).
+reports.csv,n_rated,Questions with a 1-4 score.
+reports.csv,n_na,Questions answered N/A.
+reports.csv,n_missing,Questions not filled in.
+reports.csv,duplicate_of,Earlier report_id by the SAME scout on the same player in the same match; empty = not a repeat.
+reports.csv,n_reports_player_match,Reports on this player in this match (all scouts) - >1 allows inter-rater checks.
+ratings.csv,report_id,Key to reports.csv.
+ratings.csv,question_id,Key to the codebook tab Questions (unique; question codes are NOT unique).
+ratings.csv,question_code,"Short code of the question (repeated across questionnaires, e.g. AFB1 in LB and RB)."
+ratings.csv,rating,"1-4 stars (1 = poor, 4 = excellent); empty when N/A or not filled in."
+ratings.csv,is_na,1 = the scout pressed N/A (could not be judged). Not a score.
+ratings.csv,is_missing,1 = the question was left empty.
